@@ -1,0 +1,9 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Nov 13 17:53:47 2014
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "led" LOCATE = SITE "R20" LEVEL 1;
+COMP "BUTTON_SOUTH" LOCATE = SITE "T15" LEVEL 1;
+SCHEMATIC END;
+

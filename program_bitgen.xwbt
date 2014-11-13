@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/miyukki/spartan-3an-playing/program.ncd
+OUTFILE=/home/miyukki/spartan-3an-playing/program.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s700an-4fgg484
+WORKINGDIR=/home/miyukki/spartan-3an-playing
+LICENSE=WebPack
+USER_INFO=210964772_0_0_776
